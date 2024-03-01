@@ -1,0 +1,11 @@
+public class Length {
+
+    public static void main(String[] args) {
+
+        String name = "Harshal C. Ingle";
+
+        System.out.println(name.length());
+
+    }
+
+}
