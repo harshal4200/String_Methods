@@ -1,0 +1,13 @@
+public class EqualCase {
+
+    public static void main(String[] args) {
+
+        String name = "Harshal";
+
+        String name2 = "harshal";
+
+        boolean store = name.equals(name2);
+
+        System.out.println(store);
+    }
+}
