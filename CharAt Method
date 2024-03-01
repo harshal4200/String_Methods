@@ -1,0 +1,10 @@
+public class CharAt {
+
+    public static void main(String[] args) {
+
+        String name = "Harshal";
+
+        System.out.println(name.charAt(0));
+    }
+
+}
