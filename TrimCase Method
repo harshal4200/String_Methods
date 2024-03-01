@@ -1,0 +1,15 @@
+public class TrimCase {
+
+    public static void main(String[] args) {
+
+        String name = " Harshal  ";
+
+        System.out.println("Before trim:");
+
+        System.out.println(name);
+
+        System.out.println("After trim:");
+
+        System.out.println(name.trim());
+    }
+}
