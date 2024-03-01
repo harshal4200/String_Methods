@@ -1,0 +1,12 @@
+public class Concate {
+
+    public static void main(String[] args) {
+
+        String name = "Java";
+
+        String name2 = "language";
+
+        System.out.println(name.concat(name2));
+    }
+
+}
