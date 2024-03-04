@@ -1,0 +1,11 @@
+public class charAt_reverse2 {
+    public static void main(String[] args) {
+        String a = "Harshal ";
+        String b = "";
+        for (int i=a.length()-1;i>=0;i--){
+            char temp = a.charAt(i);
+             b += temp;
+        }
+        System.out.println(b);
+    }
+}
